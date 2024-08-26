@@ -30,7 +30,7 @@ This repository contains the work completed during the Accenture Data Analytics 
 
 ## Dashboard Link
 
-![Dashboard Screenshot](![Screenshot 2024-08-26 163718](https://github.com/user-attachments/assets/9524b624-5dca-42a5-8111-95f49f2fc637)
+(![Screenshot 2024-08-26 163718](https://github.com/user-attachments/assets/9524b624-5dca-42a5-8111-95f49f2fc637)
 
 
 ## About
